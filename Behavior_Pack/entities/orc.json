@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "races:orc",
+            "is_spawnable": true,
+            "is_summonable": true
+        },
+        "components": {
+            "minecraft:physics": {},
+            "minecraft:nameable": {},
+            "minecraft:movement": {
+                "value": 0.15
+            },
+            "minecraft:movement.basic": {},
+            "minecraft:jump.static": {},
+            "minecraft:navigation.walk": {
+                "avoid_water": true,
+                "avoid_damage_blocks": true
+            },
+            "minecraft:behavior.random_stroll":
+            {
+                "priority": 3,
+                "speed_multiplier": 0.8
+            },
+            "minecraft:experience_reward": {
+                "on_death": 8
+            }
+        }
+    }
+}

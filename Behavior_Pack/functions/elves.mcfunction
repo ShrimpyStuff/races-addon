@@ -1,0 +1,12 @@
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves 0 effect @s jump_boost 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves 0 effect @s speed 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves 1 effect @s jump_boost 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves 1 effect @s speed 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves 2 effect @s jump_boost 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves 2 effect @s speed 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves 3 effect @s jump_boost 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves 3 effect @s speed 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves2 0 effect @s jump_boost 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves2 0 effect @s speed 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves2 1 effect @s jump_boost 1 1 true
+execute @a[tag=elf] ~ ~ ~ detect ~ ~-1 ~ leaves2 1 effect @s speed 1 1 true

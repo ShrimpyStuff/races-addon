@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Ha ha funny",
+      "name": "My Resource Pack",
+      "uuid":"a8684204-cf90-4ba2-b3a0-601319f8c32a",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 17, 0]
+     },
+    "modules": [
+      {
+        "description": "My First Add-On!",
+        "type": "resources",
+        "uuid": "7e6be245-e2c1-4bd0-8320-0c0c01672be8",
+        "version": [1, 0, 0]
+      }
+    ]
+   }

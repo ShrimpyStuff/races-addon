@@ -1,0 +1,1 @@
+effect @a[tag=dwarve] haste 1 1 true

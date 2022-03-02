@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Adding Races!",
+      "name": "Races",
+      "uuid":"adc6fde9-a525-4ab0-90db-198ffc12efbb",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+    },
+    "modules":
+      [
+        {
+          "type": "data",
+          "uuid": "3dd6d661-d977-4ba1-9f19-bf8c99b905ec",
+          "version": [1, 0, 0]
+        }
+      ]
+  }
